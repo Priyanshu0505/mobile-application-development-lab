@@ -1,6 +1,6 @@
 # 📱 Mobile Application Development Lab (MAD Lab)
 
-Welcome to the Mobile Application Development Lab repository.  
+Welcome to the Mobile Application Development Lab repository..
 This repository contains all Android practical programs and experiments developed as part of the B.Tech CSE MAD Lab coursework.
 
 The projects are created using **Java** and **Android Studio** to understand the fundamentals of Android application development, UI design, device features, and mobile app functionalities.
