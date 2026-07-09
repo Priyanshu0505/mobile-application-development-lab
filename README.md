@@ -41,4 +41,4 @@ The main objective of this repository is to learn and implement the core concept
 
 # 📂 Repository Structure
 
-Each experiment/program is organized properly with source code and required files for easy understanding and execution.
+Each experiment/program is organized properly with source code and required files for easy understanding and execution..
