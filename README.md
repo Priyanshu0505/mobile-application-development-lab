@@ -35,7 +35,7 @@ The projects are created using **Java** and **Android Studio** to understand the
 
 # 🎯 Objective
 
-The main objective of this repository is to learn and implement the core concepts of Android Application Development through practical experiments and mini applications.
+The main objective of this repository is to learn and implement the core concepts of Android Application Development through practical experiments and mini applications..
 
 ---
 
